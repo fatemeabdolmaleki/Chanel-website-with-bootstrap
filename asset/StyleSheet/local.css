@@ -1,0 +1,293 @@
+@media screen and (min-width: 576px) {
+  .main > .firstsec {
+    margin-top: 75px;
+  }
+
+  .main > .firstsec > .makeup {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 500%);
+  }
+
+  /* ******************************* */
+  .main > .secondsec{
+    margin-top: 740px;
+  }
+  .main > .secondsec > .watches {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 500%);
+  }
+ 
+/* ********************************* */
+.main > .thirdsec{
+  margin-top: 740px;
+}
+.main > .thirdsec > .fragrance {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 500%);
+}
+
+/* ************************************* */
+.main > .forthsec{
+  margin-top: 740px;
+}
+.main > .forthsec > .fashion {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 300%);
+}
+
+/* ************************************** */
+.main > .fifthsec{
+  margin-top: 740px;
+}
+.main > .fifthsec > .Skincare {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 400%);
+}
+
+/* *************************************** */
+.main > .sixthsec{
+  margin-top: 740px;
+}
+.main > .sixthsec > .FINEJEWELRY {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 400%);
+}
+
+/* **************************************** */
+.main > .seventhsec{
+  margin-top: 740px;
+}
+.main > .seventhsec > .Eyewear {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 400%);
+}
+
+/* **************************************** */
+.main > .eighthsec{
+  margin-top: 740px;
+}
+.main > .eighthsec > .Haute {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 300%);
+}
+
+/* ***************************************** */
+.main > .ninthsec{
+  margin-top: 740px;
+}
+.main > .ninthsec > .Joaillerie {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 400%);
+}
+
+/* *********************************************** */
+.main >footer{
+  height: 220vh;
+  margin-top: 746px;
+}
+
+}
+
+
+@media screen and (min-width: 768px) {
+  .main > .firstsec > .makeup {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 750%);
+  }
+  /* ********************************** */
+  .main > .secondsec{
+    margin-top: 1000px;
+  }
+  .main > .secondsec > .watches {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 500%);
+  }
+  /* ************************************** */
+  .main > .thirdsec > .fragrance {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 700%);
+  }
+  /* *********************************** */
+  .main > .forthsec{
+    margin-top: 1000px;
+  }
+  .main > .forthsec > .fashion {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 350%);
+  }
+  /* **************************************** */
+  .main > .fifthsec{
+    margin-top: 1000px;
+  }
+  .main > .fifthsec > .Skincare {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 700%);
+  }
+  /* ******************************************* */
+  .main > .sixthsec{
+    margin-top: 1000px;
+  }
+  .main > .sixthsec > .FINEJEWELRY {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 700%);
+  }
+  /* ********************************************** */
+  .main > .seventhsec{
+    margin-top: 1000px;
+  }
+  .main > .seventhsec > .Eyewear {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 700%);
+  }
+  /* *********************************************** */
+  .main > .eighthsec{
+    margin-top: 1000px;
+  }
+  .main > .eighthsec > .Haute {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 500%);
+  }
+  /* ************************************************ */
+  .main > .ninthsec{
+    margin-top: 1000px;
+  }
+  .main > .ninthsec > .Joaillerie {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 700%);
+  }
+  /* ****************************************************** */
+  .main >footer{
+    height: 220vh;
+    margin-top: 1000px;
+  }
+
+}
+
+@media screen and (min-width: 992px) {
+    .main > .firstsec {
+        margin-top: auto;
+      }
+
+      .main > .firstsec > .makeup {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, 250%);
+      }
+      /* *********************************** */
+    
+
+}
+
+@media screen and (min-width: 1200px) {
+  .mainul {
+    padding-top: 90px;
+  }
+  /* ******************************** */
+  .main > .secondsec {
+    margin-top: 495px;
+  }
+
+  .main > .secondsec > .watches {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 400%);
+  }
+  /* *********************************** */
+  .main > .thirdsec {
+    margin-top: 630px;
+  }
+
+  .main > .thirdsec > .fragrance {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 350%);
+  }
+  /* *************************************** */
+  .main > .forthsec {
+    margin-top: 630px;
+  }
+
+  .main > .forthsec > .fashion {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 200%);
+  }
+  /* ************************************ */
+  .main > .fifthsec {
+    margin-top: 630px;
+  }
+
+  .main > .fifthsec > .Skincare {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,400%);
+  }
+  /* *************************************** */
+  .main > .sixthsec {
+    margin-top: 630px;
+  }
+
+  .main > .sixthsec > .FINEJEWELRY {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,320%);
+  }
+/* ********************************************* */
+.main > .seventhsec {
+  margin-top: 630px;
+}
+
+.main > .seventhsec > .Eyewear {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,400%);
+}
+/* ********************************************* */
+.main > .eighthsec {
+  margin-top: 630px;
+}
+
+.main > .eighthsec > .Haute {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,200%);
+}
+/* ************************************************ */
+.main > .ninthsec {
+  margin-top: 630px;
+}
+
+.main > .ninthsec > .Joaillerie {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,400%);
+}
+/* ***************************************************** */
+.main >footer{
+  height: 100vh;
+  margin-top: 650px;
+}
+
+
+}
+
+@media screen and (min-width: 1400px) {
+}

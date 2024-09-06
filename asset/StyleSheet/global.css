@@ -1,0 +1,136 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+    }
+    main{
+      display: flex;
+      flex-wrap: wrap;
+      >header{
+        > .row{
+          &:nth-of-type(1){
+            z-index: 999;
+          }
+        }
+      }
+    }
+    .main > .firstsec > .row > .firstfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+    .main > .secondsec > .row > .secondfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+    .main > .thirdsec > .row > .thirdfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+    .main > .forthsec > .row > .forthfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+    .main > .fifthsec > .row > .fifthfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+    .main > .sixthsec > .row > .sixthfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+    .main > .seventhsec > .row > .seventhfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+    .main > .eighthsec > .row > .eighthfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+    .main > .ninthsec > .row > .ninthfig{
+      position: relative;
+      &::after{
+        content: '';
+        position: absolute;
+        display: flex;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.498);
+      }
+    }
+   
